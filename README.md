@@ -3,3 +3,6 @@ Minimum working example for calculation of Equivalent Water Height (EWH) from GR
 
 GRACE monthly sollutions used in the example:
 Mayer-Gürr, Torsten; Behzadpour, Saniya; Ellmer, Matthias; Kvas, Andreas; Klinger, Beate; Zehentner, Norbert (2016): ITSG-Grace2016 - Monthly and Daily Gravity Field Solutions from GRACE. GFZ Data Services. http://doi.org/10.5880/icgem.2016.007
+
+Datafiles can be found at: 
+ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120
