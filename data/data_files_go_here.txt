@@ -1,0 +1,7 @@
+data files in .gfc format go here
+
+Collection of models and References:
+http://icgem.gfz-potsdam.de/home
+
+Data used for this example:
+ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120
