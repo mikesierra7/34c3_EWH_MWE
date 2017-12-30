@@ -6,9 +6,9 @@ This example does **NOT** include corrections for additional gravity effects, e.
 
 The calculations are described in Wahr et al. (1998) with simulated GRACE data and Wahr (2015) with results from the GRACE mission.
 
-A more general documentation on the calculation of gravity field functionals from spherical harmonic coefficients can be found in Barthelmes (2013)
+A more general documentation on the calculation of gravity field functionals from spherical harmonic coefficients can be found in Barthelmes (2013).
 
-GRACE monthly sollutions used in the example files can be found at: 
+GRACE monthly solutions used in the example files can be found at: 
 <ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120>
 
 References
