@@ -9,6 +9,8 @@ The calculations are described in Wahr et al. (1998) with simulated GRACE data a
 The GRACE monthly solutions used in the example can be found at the [Institute of Geodesy, Graz University of Technology](https://www.tugraz.at/institute/ifg/downloads/gravity-field-models/itsg-grace2016/):
 <ftp://ftp.tugraz.at/outgoing/ITSG/GRACE/ITSG-Grace2016/monthly/monthly_n120>
 
+The Resources.pdf contains additional information and links, including online repositories of gravity field data and services.
+
 **How to run**
 
 * Download data files for 2002-05 and 2017-05 into data subfolder
