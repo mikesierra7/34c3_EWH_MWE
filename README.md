@@ -20,7 +20,7 @@ The Resources.pdf contains additional information and links, including online re
 
 * Barthelmes, F. (2013): Definitions of Functionals of the Geopotential and Their Calculation from Spherical Harmonic Models. Scientific Technical Report STR09/02. GFZ Potsdam, URL: <http://icgem.gfz-potsdam.de/theory>
 * Hofmann-Wellenhof, B. and Moritz, H. (2006): Physical Geodesy, 2nd Edition. Springer, Wien/New York. ISBN: [3-211-33544-7](http://www.worldcat.org/title/physical-geodesy/oclc/758109268)
-* Mayer-Gürr, Torsten; Behzadpour, Saniya; Ellmer, Matthias; Kvas, Andreas; Klinger, Beate; Zehentner, Norbert (2016): ITSG-Grace2016 - Monthly and Daily Gravity Field Solutions from GRACE. GFZ Data Services. DOI: [icgem.2016.007](http://doi.org/10.5880/icgem.2016.007)
+* Mayer-Gürr, Torsten; Behzadpour, Saniya; Ellmer, Matthias; Kvas, Andreas; Klinger, Beate; Zehentner, Norbert (2016): ITSG-Grace2016 - Monthly and Daily Gravity Field Solutions from GRACE. GFZ Data Services. DOI: [10.5880/icgem.2016.007](http://doi.org/10.5880/icgem.2016.007)
 * Torge, W. and Müller, J. (2012): Geodesy, 4th Edition. De Gruyter, Berlin/Boston. ISBN [978-3-11-020718-7](http://www.worldcat.org/title/geodesy/oclc/987088700)
 * Wahr, J., M. Molenaar, and F. Bryan (1998), Time variability of the Earth's gravity field: Hydrological and oceanic effects and their possible detection using GRACE, J. Geophys. Res., 103(B12), 30205–30229, DOI: [10.1029/98JB02844](http://doi.org/10.1029/98JB02844).
 * Wahr, J. (2007): Time Variable Gravity Fields from Satellites. In: Herring, T.A. (Ed.): Treatise on Geophysics, Vol 3, pp. 193-213. DOI: [10.1016/B978-0-444-53802-4.00065-8](https://doi.org/10.1016/B978-0-444-53802-4.00065-8)
