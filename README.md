@@ -15,6 +15,7 @@ The Resources.pdf contains additional information and links, including online re
 
 * Download data files for 2002-05 and 2017-05 into data subfolder
 * Run example.m in MATLAB or Octave
+* Run example.py for a python version. The [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) package is required for plotting coastlines in the result. Cartopy will automatically download the required coastlines data.
 
 **References**
 
